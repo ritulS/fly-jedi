@@ -1,0 +1,4786 @@
+[
+  {
+    "_id": {
+      "$oid": "5fb68e25b995ad1d40148168"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "DAG",
+    "flightNumber": "C13",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:00:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68e25b995ad1d4014816a"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "DAG",
+    "flightNumber": "C13",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:00:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b521b995ad1d401481a0"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z009",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b521b995ad1d401481a3"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z009",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b521b995ad1d401481ab"
+    },
+    "boarding": {
+      "$date": "2000-01-01T06:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "ADR",
+    "flightNumber": "L000",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T06:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ba72b995ad1d401481c9"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "CST",
+    "flightNumber": "L001",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bd42b995ad1d401481d0"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "GRL",
+    "flightNumber": "J98",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6be65b995ad1d401481e0"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "CST",
+    "flightNumber": "J99",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "GRL",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6c0b4b995ad1d401481ff"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "CST",
+    "flightNumber": "K11",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "AV7",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb3ec5568819414f88fc5b2"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "ADR",
+    "flightNumber": "B58",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T14:00:00Z"
+    },
+    "startingAirport": "AJK",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 11000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68693b995ad1d4014814a"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "AJK",
+    "flightNumber": "B57",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T14:00:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 11000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68693b995ad1d40148150"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "AJK",
+    "flightNumber": "B57",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T14:00:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 11000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b521b995ad1d401481b0"
+    },
+    "boarding": {
+      "$date": "2000-01-01T06:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z007",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T06:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ba72b995ad1d401481c0"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "CST",
+    "flightNumber": "L003",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ba72b995ad1d401481c4"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "CST",
+    "flightNumber": "L003",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bd42b995ad1d401481ce"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "GRL",
+    "flightNumber": "J98",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bd42b995ad1d401481d5"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "GRL",
+    "flightNumber": "J99",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6be65b995ad1d401481dd"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "CST",
+    "flightNumber": "J99",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "GRL",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6c0b4b995ad1d401481fe"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "CST",
+    "flightNumber": "K11",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "AV7",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb68693b995ad1d4014814f"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "AJK",
+    "flightNumber": "B57",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T14:00:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 11000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68c2eb995ad1d40148158"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "ADR",
+    "flightNumber": "C14",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:00:00Z"
+    },
+    "startingAirport": "DAG",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68c2eb995ad1d4014815a"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "ADR",
+    "flightNumber": "C14",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:00:00Z"
+    },
+    "startingAirport": "DAG",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68c2eb995ad1d4014815d"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "ADR",
+    "flightNumber": "C14",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:00:00Z"
+    },
+    "startingAirport": "DAG",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6a9a2b995ad1d4014817a"
+    },
+    "boarding": {
+      "$date": "2000-01-01T10:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "HSP",
+    "flightNumber": "Z262",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T10:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ab39b995ad1d40148181"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z262",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T07:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b521b995ad1d4014819d"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z009",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b850b995ad1d401481b6"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "HSP",
+    "flightNumber": "L001",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b850b995ad1d401481be"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "HSP",
+    "flightNumber": "L003",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ba72b995ad1d401481c1"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "CST",
+    "flightNumber": "L003",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ba72b995ad1d401481c3"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "CST",
+    "flightNumber": "L003",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ba72b995ad1d401481cb"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "CST",
+    "flightNumber": "L001",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bd42b995ad1d401481d2"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "GRL",
+    "flightNumber": "J98",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6be65b995ad1d401481e5"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "CST",
+    "flightNumber": "J98",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "GRL",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6c0b4b995ad1d401481f7"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "CST",
+    "flightNumber": "K12",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "AV7",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6c0b4b995ad1d401481fb"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "CST",
+    "flightNumber": "K12",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "AV7",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fafde30f21bbb24f4b3461d"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "AJK",
+    "flightNumber": "B58",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T05:00:00Z"
+    },
+    "price": 11000,
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fb68693b995ad1d4014814c"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "AJK",
+    "flightNumber": "B57",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T14:00:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 11000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68e25b995ad1d40148160"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "DAG",
+    "flightNumber": "C14",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:00:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68e25b995ad1d4014816b"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "DAG",
+    "flightNumber": "C13",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:00:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6a9a2b995ad1d4014816e"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "HSP",
+    "flightNumber": "Z277",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T07:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6a9a2b995ad1d40148171"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "HSP",
+    "flightNumber": "Z277",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T07:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b19bb995ad1d40148195"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "CST",
+    "flightNumber": "Z009",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b19bb995ad1d40148197"
+    },
+    "boarding": {
+      "$date": "2000-01-01T06:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "CST",
+    "flightNumber": "L002",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T06:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b19bb995ad1d40148198"
+    },
+    "boarding": {
+      "$date": "2000-01-01T06:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "CST",
+    "flightNumber": "L000",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T06:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b521b995ad1d401481ad"
+    },
+    "boarding": {
+      "$date": "2000-01-01T06:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "ADR",
+    "flightNumber": "L000",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T06:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b850b995ad1d401481b5"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "HSP",
+    "flightNumber": "L001",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b850b995ad1d401481bd"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "HSP",
+    "flightNumber": "L003",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bd42b995ad1d401481d3"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "GRL",
+    "flightNumber": "J98",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6be65b995ad1d401481de"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "CST",
+    "flightNumber": "J99",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "GRL",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6be65b995ad1d401481e6"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "CST",
+    "flightNumber": "J98",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "GRL",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bfa1b995ad1d401481e9"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "AV7",
+    "flightNumber": "K11",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6c0b4b995ad1d40148200"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "CST",
+    "flightNumber": "K11",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "AV7",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb3ec5568819414f88fc5ad"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "ADR",
+    "flightNumber": "B58",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T14:00:00Z"
+    },
+    "startingAirport": "AJK",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 11000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68c2eb995ad1d40148153"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "ADR",
+    "flightNumber": "C13",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:00:00Z"
+    },
+    "startingAirport": "DAG",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6a9a2b995ad1d40148173"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "HSP",
+    "flightNumber": "Z277",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T07:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6a9a2b995ad1d40148178"
+    },
+    "boarding": {
+      "$date": "2000-01-01T10:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "HSP",
+    "flightNumber": "Z262",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T10:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ab39b995ad1d4014817e"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z262",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T07:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b521b995ad1d401481a4"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z007",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b850b995ad1d401481b1"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "HSP",
+    "flightNumber": "L001",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ba72b995ad1d401481ca"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "CST",
+    "flightNumber": "L001",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6be65b995ad1d401481e1"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "CST",
+    "flightNumber": "J99",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "GRL",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6c0b4b995ad1d401481f8"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "CST",
+    "flightNumber": "K12",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "AV7",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fafdce2f21bbb24f4b34617"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "ADR",
+    "flightNumber": "B57",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T05:00:00Z"
+    },
+    "price": 10000,
+    "startingAirport": "AJK",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fafdce2f21bbb24f4b34618"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "ADR",
+    "flightNumber": "B57",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T05:00:00Z"
+    },
+    "price": 10000,
+    "startingAirport": "AJK",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fafde30f21bbb24f4b3461e"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "AJK",
+    "flightNumber": "B58",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T05:00:00Z"
+    },
+    "price": 11000,
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fb3ec5568819414f88fc5af"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "ADR",
+    "flightNumber": "B58",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T14:00:00Z"
+    },
+    "startingAirport": "AJK",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 11000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68693b995ad1d4014814b"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "AJK",
+    "flightNumber": "B57",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T14:00:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 11000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6a9a2b995ad1d40148179"
+    },
+    "boarding": {
+      "$date": "2000-01-01T10:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "HSP",
+    "flightNumber": "Z262",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T10:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ab39b995ad1d40148180"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z262",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T07:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ab39b995ad1d40148184"
+    },
+    "boarding": {
+      "$date": "2000-01-01T10:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z277",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T10:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b521b995ad1d401481af"
+    },
+    "boarding": {
+      "$date": "2000-01-01T06:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "ADR",
+    "flightNumber": "L000",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T06:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6be65b995ad1d401481e4"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "CST",
+    "flightNumber": "J98",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "GRL",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bfa1b995ad1d401481ea"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "AV7",
+    "flightNumber": "K11",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bfa1b995ad1d401481f3"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "AV7",
+    "flightNumber": "K12",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bfa1b995ad1d401481f5"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "AV7",
+    "flightNumber": "K12",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6c0b4b995ad1d401481f9"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "CST",
+    "flightNumber": "K12",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "AV7",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ab39b995ad1d4014817f"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z262",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T07:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ab39b995ad1d40148182"
+    },
+    "boarding": {
+      "$date": "2000-01-01T10:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z277",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T10:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b19bb995ad1d40148189"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "CST",
+    "flightNumber": "Z007",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b850b995ad1d401481b9"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "HSP",
+    "flightNumber": "L003",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ba72b995ad1d401481c7"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "CST",
+    "flightNumber": "L001",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ba72b995ad1d401481cc"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "CST",
+    "flightNumber": "L001",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bd42b995ad1d401481d9"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "GRL",
+    "flightNumber": "J99",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6be65b995ad1d401481dc"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "CST",
+    "flightNumber": "J99",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "GRL",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bfa1b995ad1d401481ee"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "AV7",
+    "flightNumber": "K11",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fafda3ff21bbb24f4b34615"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "AJK",
+    "flightNumber": "B58",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T05:00:00Z"
+    },
+    "price": 12000,
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fb68693b995ad1d4014814d"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "AJK",
+    "flightNumber": "B57",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T14:00:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 11000
+  },
+  {
+    "_id": {
+      "$oid": "5fafde30f21bbb24f4b34621"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "AJK",
+    "flightNumber": "B58",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T05:00:00Z"
+    },
+    "price": 11500,
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fb3ec5568819414f88fc5b1"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "ADR",
+    "flightNumber": "B58",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T14:00:00Z"
+    },
+    "startingAirport": "AJK",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 11000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68c2eb995ad1d40148152"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "ADR",
+    "flightNumber": "C13",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:00:00Z"
+    },
+    "startingAirport": "DAG",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6a9a2b995ad1d40148175"
+    },
+    "boarding": {
+      "$date": "2000-01-01T10:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "HSP",
+    "flightNumber": "Z262",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T10:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ab39b995ad1d4014817b"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z262",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T07:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ab39b995ad1d4014817d"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z262",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T07:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ab39b995ad1d40148186"
+    },
+    "boarding": {
+      "$date": "2000-01-01T10:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z277",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T10:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b19bb995ad1d4014818c"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "CST",
+    "flightNumber": "Z007",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b19bb995ad1d4014818d"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "CST",
+    "flightNumber": "Z007",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b19bb995ad1d40148190"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "CST",
+    "flightNumber": "Z009",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b850b995ad1d401481b3"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "HSP",
+    "flightNumber": "L001",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ba72b995ad1d401481c6"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "CST",
+    "flightNumber": "L001",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6c0b5b995ad1d40148203"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "CST",
+    "flightNumber": "K11",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "AV7",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb68c2eb995ad1d40148154"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "ADR",
+    "flightNumber": "C13",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:00:00Z"
+    },
+    "startingAirport": "DAG",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68e25b995ad1d40148169"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "DAG",
+    "flightNumber": "C13",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:00:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6a9a2b995ad1d4014816f"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "HSP",
+    "flightNumber": "Z277",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T07:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ab39b995ad1d4014817c"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z262",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T07:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ab39b995ad1d40148187"
+    },
+    "boarding": {
+      "$date": "2000-01-01T10:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z277",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T10:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b19bb995ad1d40148194"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "CST",
+    "flightNumber": "Z009",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b19bb995ad1d40148199"
+    },
+    "boarding": {
+      "$date": "2000-01-01T06:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "CST",
+    "flightNumber": "L002",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T06:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b521b995ad1d401481a6"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z007",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b521b995ad1d401481a7"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z007",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6be65b995ad1d401481df"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "CST",
+    "flightNumber": "J99",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "GRL",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bfa1b995ad1d401481ef"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "AV7",
+    "flightNumber": "K11",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bfa1b995ad1d401481f2"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "AV7",
+    "flightNumber": "K12",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6c0b5b995ad1d40148204"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "CST",
+    "flightNumber": "K11",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "AV7",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb68c2eb995ad1d4014815c"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "ADR",
+    "flightNumber": "C14",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:00:00Z"
+    },
+    "startingAirport": "DAG",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68c2eb995ad1d40148157"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "ADR",
+    "flightNumber": "C13",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:00:00Z"
+    },
+    "startingAirport": "DAG",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68e25b995ad1d40148165"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "DAG",
+    "flightNumber": "C14",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:00:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b19bb995ad1d4014818b"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "CST",
+    "flightNumber": "Z007",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b19bb995ad1d40148196"
+    },
+    "boarding": {
+      "$date": "2000-01-01T06:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "CST",
+    "flightNumber": "L000",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T06:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b850b995ad1d401481b4"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "HSP",
+    "flightNumber": "L001",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b850b995ad1d401481b7"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "HSP",
+    "flightNumber": "L001",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b850b995ad1d401481b8"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "HSP",
+    "flightNumber": "L003",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ba72b995ad1d401481bf"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "CST",
+    "flightNumber": "L003",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6be65b995ad1d401481e2"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "CST",
+    "flightNumber": "J98",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "GRL",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bfa1b995ad1d401481ed"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "AV7",
+    "flightNumber": "K11",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6c0b5b995ad1d40148202"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "CST",
+    "flightNumber": "K11",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "AV7",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6a9a2b995ad1d40148170"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "HSP",
+    "flightNumber": "Z277",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T07:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6a9a2b995ad1d40148177"
+    },
+    "boarding": {
+      "$date": "2000-01-01T10:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "HSP",
+    "flightNumber": "Z262",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T10:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b19bb995ad1d4014818f"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "CST",
+    "flightNumber": "Z007",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b521b995ad1d401481aa"
+    },
+    "boarding": {
+      "$date": "2000-01-01T06:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "ADR",
+    "flightNumber": "L002",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T06:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ba72b995ad1d401481c8"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "CST",
+    "flightNumber": "L001",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bfa1b995ad1d401481ec"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "AV7",
+    "flightNumber": "K11",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fafdce2f21bbb24f4b34619"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "ADR",
+    "flightNumber": "B57",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T05:00:00Z"
+    },
+    "price": 10000,
+    "startingAirport": "AJK",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fafd3ccf21bbb24f4b34614"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "ADR",
+    "flightNumber": "B57",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T05:00:00Z"
+    },
+    "price": 11000,
+    "startingAirport": "AJK",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fb68693b995ad1d4014814e"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "AJK",
+    "flightNumber": "B57",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T14:00:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 11000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68c2eb995ad1d40148159"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "ADR",
+    "flightNumber": "C14",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:00:00Z"
+    },
+    "startingAirport": "DAG",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68e25b995ad1d40148161"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "DAG",
+    "flightNumber": "C14",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:00:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68e25b995ad1d40148164"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "DAG",
+    "flightNumber": "C14",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:00:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68e25b995ad1d40148166"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "DAG",
+    "flightNumber": "C13",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:00:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68e25b995ad1d40148167"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "DAG",
+    "flightNumber": "C13",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:00:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68e25b995ad1d4014816c"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "DAG",
+    "flightNumber": "C13",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:00:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b19bb995ad1d4014819c"
+    },
+    "boarding": {
+      "$date": "2000-01-01T06:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "CST",
+    "flightNumber": "Z009",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T06:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b521b995ad1d401481a5"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z007",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b521b995ad1d401481ac"
+    },
+    "boarding": {
+      "$date": "2000-01-01T06:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "ADR",
+    "flightNumber": "L002",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T06:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ba72b995ad1d401481c5"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "CST",
+    "flightNumber": "L003",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6be65b995ad1d401481db"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "CST",
+    "flightNumber": "J99",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "GRL",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6be65b995ad1d401481e3"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "CST",
+    "flightNumber": "J98",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "GRL",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bfa1b995ad1d401481f0"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "AV7",
+    "flightNumber": "K12",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6c0b4b995ad1d401481fc"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "CST",
+    "flightNumber": "K12",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "AV7",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6c0b4b995ad1d40148201"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "CST",
+    "flightNumber": "K11",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "AV7",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fafdce2f21bbb24f4b3461a"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "ADR",
+    "flightNumber": "B57",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T05:00:00Z"
+    },
+    "price": 10000,
+    "startingAirport": "AJK",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fafde30f21bbb24f4b34620"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "AJK",
+    "flightNumber": "B58",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T05:00:00Z"
+    },
+    "price": 11000,
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fb3ec5568819414f88fc5b0"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "ADR",
+    "flightNumber": "B58",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T14:00:00Z"
+    },
+    "startingAirport": "AJK",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 11000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68c2eb995ad1d40148156"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "ADR",
+    "flightNumber": "C13",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:00:00Z"
+    },
+    "startingAirport": "DAG",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68c2eb995ad1d4014815e"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "ADR",
+    "flightNumber": "C14",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:00:00Z"
+    },
+    "startingAirport": "DAG",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68e25b995ad1d40148162"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "DAG",
+    "flightNumber": "C14",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:00:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ab39b995ad1d40148183"
+    },
+    "boarding": {
+      "$date": "2000-01-01T10:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z277",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T10:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b19bb995ad1d40148193"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "CST",
+    "flightNumber": "Z009",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b521b995ad1d401481a8"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z007",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b850b995ad1d401481ba"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "HSP",
+    "flightNumber": "L003",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b850b995ad1d401481bc"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "HSP",
+    "flightNumber": "L003",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ba72b995ad1d401481c2"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "CST",
+    "flightNumber": "L003",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bd42b995ad1d401481cd"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "GRL",
+    "flightNumber": "J98",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bd42b995ad1d401481cf"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "GRL",
+    "flightNumber": "J98",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bd42b995ad1d401481d4"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "GRL",
+    "flightNumber": "J99",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6be65b995ad1d401481e7"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "CST",
+    "flightNumber": "J98",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "GRL",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bfa1b995ad1d401481eb"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "AV7",
+    "flightNumber": "K11",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fafdce2f21bbb24f4b34616"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "ADR",
+    "flightNumber": "B57",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T05:00:00Z"
+    },
+    "price": 10000,
+    "startingAirport": "AJK",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fb3ec5568819414f88fc5ac"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "ADR",
+    "flightNumber": "B58",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T14:00:00Z"
+    },
+    "startingAirport": "AJK",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 11500
+  },
+  {
+    "_id": {
+      "$oid": "5fafde30f21bbb24f4b3461c"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "AJK",
+    "flightNumber": "B58",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T05:00:00Z"
+    },
+    "price": 11000,
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fb68c2eb995ad1d40148151"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "ADR",
+    "flightNumber": "C13",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:00:00Z"
+    },
+    "startingAirport": "DAG",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68c2eb995ad1d40148155"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "ADR",
+    "flightNumber": "C13",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:00:00Z"
+    },
+    "startingAirport": "DAG",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68c2eb995ad1d4014815b"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "ADR",
+    "flightNumber": "C14",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:00:00Z"
+    },
+    "startingAirport": "DAG",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb68e25b995ad1d40148163"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "DAG",
+    "flightNumber": "C14",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:00:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6a9a2b995ad1d40148172"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "HSP",
+    "flightNumber": "Z277",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T07:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b19bb995ad1d4014818a"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "CST",
+    "flightNumber": "Z007",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b19bb995ad1d4014819b"
+    },
+    "boarding": {
+      "$date": "2000-01-01T06:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "CST",
+    "flightNumber": "L002",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T06:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b850b995ad1d401481b2"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "HSP",
+    "flightNumber": "L001",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bd42b995ad1d401481d6"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "GRL",
+    "flightNumber": "J99",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bd42b995ad1d401481da"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "GRL",
+    "flightNumber": "J99",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6be65b995ad1d401481e8"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "CST",
+    "flightNumber": "J98",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "GRL",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb3ec5568819414f88fc5ae"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "ADR",
+    "flightNumber": "B58",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T14:00:00Z"
+    },
+    "startingAirport": "AJK",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 11000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6a9a2b995ad1d4014816d"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "HSP",
+    "flightNumber": "Z277",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T07:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6a9a2b995ad1d40148174"
+    },
+    "boarding": {
+      "$date": "2000-01-01T10:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "HSP",
+    "flightNumber": "Z262",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T10:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ab39b995ad1d40148185"
+    },
+    "boarding": {
+      "$date": "2000-01-01T10:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z277",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T10:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6ab39b995ad1d40148188"
+    },
+    "boarding": {
+      "$date": "2000-01-01T10:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z277",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T10:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "HSP",
+    "takeOff": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b19bb995ad1d4014818e"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "CST",
+    "flightNumber": "Z007",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b521b995ad1d4014819f"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z009",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b521b995ad1d401481a1"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z009",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b521b995ad1d401481a9"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z007",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b850b995ad1d401481bb"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "HSP",
+    "flightNumber": "L003",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T13:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 10000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bd42b995ad1d401481d1"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "GRL",
+    "flightNumber": "J98",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bd42b995ad1d401481d7"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "GRL",
+    "flightNumber": "J99",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bfa1b995ad1d401481f6"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "AV7",
+    "flightNumber": "K12",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6c0b4b995ad1d401481fa"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Wednesday",
+    "destinationAirport": "CST",
+    "flightNumber": "K12",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "AV7",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6c0b4b995ad1d401481fd"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "CST",
+    "flightNumber": "K12",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T03:30:00Z"
+    },
+    "startingAirport": "AV7",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fafdce2f21bbb24f4b3461b"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Saturday",
+    "destinationAirport": "ADR",
+    "flightNumber": "B57",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T05:00:00Z"
+    },
+    "price": 10500,
+    "startingAirport": "AJK",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fafde30f21bbb24f4b3461f"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "AJK",
+    "flightNumber": "B58",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T05:00:00Z"
+    },
+    "price": 11000,
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fb68e25b995ad1d4014815f"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Sunday",
+    "destinationAirport": "DAG",
+    "flightNumber": "C14",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T04:00:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 9000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6a9a2b995ad1d40148176"
+    },
+    "boarding": {
+      "$date": "2000-01-01T10:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "HSP",
+    "flightNumber": "Z262",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T10:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "price": 15000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b19bb995ad1d40148191"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "CST",
+    "flightNumber": "Z009",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b19bb995ad1d40148192"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Tuesday",
+    "destinationAirport": "CST",
+    "flightNumber": "Z009",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T15:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b19bb995ad1d4014819a"
+    },
+    "boarding": {
+      "$date": "2000-01-01T06:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "CST",
+    "flightNumber": "L000",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T06:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "startingAirport": "ADR",
+    "takeOff": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b521b995ad1d4014819e"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z009",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b521b995ad1d401481a2"
+    },
+    "boarding": {
+      "$date": "2000-01-01T02:00:00Z"
+    },
+    "dayOfFlight": "Friday",
+    "destinationAirport": "ADR",
+    "flightNumber": "Z009",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T02:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T02:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6b521b995ad1d401481ae"
+    },
+    "boarding": {
+      "$date": "2000-01-01T06:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "ADR",
+    "flightNumber": "L002",
+    "flightType": "Windfall",
+    "gateClose": {
+      "$date": "2000-01-01T06:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T10:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T06:30:00Z"
+    },
+    "price": 14500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bd42b995ad1d401481d8"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "GRL",
+    "flightNumber": "J99",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7500
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bfa1b995ad1d401481f1"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Monday",
+    "destinationAirport": "AV7",
+    "flightNumber": "K12",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7000
+  },
+  {
+    "_id": {
+      "$oid": "5fb6bfa1b995ad1d401481f4"
+    },
+    "boarding": {
+      "$date": "2000-01-01T11:00:00Z"
+    },
+    "dayOfFlight": "Thursday",
+    "destinationAirport": "AV7",
+    "flightNumber": "K12",
+    "flightType": "Razor Crest",
+    "gateClose": {
+      "$date": "2000-01-01T11:20:00Z"
+    },
+    "landingTime": {
+      "$date": "2000-01-01T12:30:00Z"
+    },
+    "startingAirport": "CST",
+    "takeOff": {
+      "$date": "2000-01-01T11:30:00Z"
+    },
+    "price": 7000
+  }
+]
